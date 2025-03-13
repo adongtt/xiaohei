@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="32.943953" lon="112.575853">
+        <ele>351</ele>
+        <time>2017-06-08T04:02:27Z</time>
+      </trkpt>
+      <trkpt lat="32.944404" lon="112.576337">
+        <ele>328</ele>
+        <time>2017-06-08T04:02:32Z</time>
+      </trkpt>
+      <trkpt lat="32.946619" lon="112.578854">
+        <ele>313</ele>
+        <time>2017-06-08T04:02:37Z</time>
+      </trkpt>
+      <trkpt lat="32.948825" lon="112.581258">
+        <ele>296</ele>
+        <time>2017-06-08T04:02:42Z</time>
+      </trkpt>
+      <trkpt lat="32.951053" lon="112.583593">
+        <ele>283</ele>
+        <time>2017-06-08T04:02:47Z</time>
+      </trkpt>
+      <trkpt lat="32.953277" lon="112.585937">
+        <ele>266</ele>
+        <time>2017-06-08T04:02:52Z</time>
+      </trkpt>
+      <trkpt lat="32.955499" lon="112.58832">
+        <ele>255</ele>
+        <time>2017-06-08T04:02:57Z</time>
+      </trkpt>
+      <trkpt lat="32.957735" lon="112.590704">
+        <time>2017-06-08T04:03:02Z</time>
+      </trkpt>
+      <trkpt lat="32.959975" lon="112.593072">
+        <time>2017-06-08T04:03:09Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="27.161192" lon="117.297228">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:28:50Z</time>
+      </trkpt>
+      <trkpt lat="27.161218" lon="117.297216">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:28:55Z</time>
+      </trkpt>
+      <trkpt lat="27.161325" lon="117.29718">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:29:00Z</time>
+      </trkpt>
+      <trkpt lat="27.161438" lon="117.297131">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:29:05Z</time>
+      </trkpt>
+      <trkpt lat="27.161518" lon="117.296992">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:29:10Z</time>
+      </trkpt>
+      <trkpt lat="27.161625" lon="117.29685">
+        <ele>376.0</ele>
+        <time>2018-09-22T23:29:15Z</time>
+      </trkpt>
+      <trkpt lat="27.161747" lon="117.296737">
+        <ele>377.0</ele>
+        <time>2018-09-22T23:29:20Z</time>
+      </trkpt>
+      <trkpt lat="27.161857" lon="117.296642">
+        <ele>377.0</ele>
+        <time>2018-09-22T23:29:25Z</time>
+      </trkpt>
+      <trkpt lat="27.161963" lon="117.296577">
+        <ele>378.0</ele>
+        <time>2018-09-22T23:29:30Z</time>
+      </trkpt>
+      <trkpt lat="27.162069" lon="117.296518">
+        <time>2018-09-22T23:29:34Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

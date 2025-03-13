@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="36.177914" lon="103.264123">
+        <ele>1682</ele>
+        <time>2017-06-08T07:39:57Z</time>
+      </trkpt>
+      <trkpt lat="36.178195" lon="103.262883">
+        <ele>1685</ele>
+        <time>2017-06-08T07:40:02Z</time>
+      </trkpt>
+      <trkpt lat="36.178367" lon="103.261567">
+        <time>2017-06-08T07:40:11Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
